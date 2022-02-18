@@ -1,0 +1,67 @@
+.container-1 {
+    text-align: center;
+    margin: 30px;
+    font-family: 'karla', sans-serif;
+    background-color: ghostwhite;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.container {
+    text-align: center;
+    margin: 30px;
+    font-family: 'karla', sans-serif;
+    background-color: ghostwhite;
+    display: flex;
+    align-items: center;
+}
+
+h1#one {
+    font-weight: 100;
+}
+
+.supervisor {
+    display: flexbox;
+    width: 25%;
+    border-top: solid lightblue;
+    padding: 15px;
+    margin: 30px;
+    text-align: left;
+    background-color: white;
+}
+
+.mid {
+    margin: 15px;
+    width: 25%;
+}
+
+.teambuilder {
+    display: flexbox;
+    border-top: solid rgb(190, 74, 74);
+    background-color: white;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+.karma {
+    text-align: left;
+    background-color: white;
+    border-top: solid orangered;
+    display: flexbox;
+    padding: 15px;
+}
+
+.calculator {
+    width: 25%;
+    text-align: left;
+    background-color: white;
+    border-top: solid teal;
+    display: inline-flexbox;
+    padding: 15px;
+}
+
+.head {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
